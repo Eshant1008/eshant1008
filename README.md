@@ -19,22 +19,13 @@ Computer vision system that detects driver fatigue using Eye Aspect Ratio (EAR) 
 * NumPy
 * SciPy
 * Computer Vision
-
-🔹 **A Simple Online Calculator**
-A Simple calculator that is colorfull and can be accessed online (colorfull calculator).
-
-   ## 🛠 Technologies
-   *HTML
-   *CSS
 ---
-
-
 ## 🌱 Currently Learning
   *Machine Learning
   *Mathematics for Machine Learning
   *Artificial Intelligence Systems
 
-
+---
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshant1008\&show_icons=true)
@@ -46,5 +37,5 @@ A Simple calculator that is colorfull and can be accessed online (colorfull calc
 ## 📫 Connect
 
 GitHub: https://github.com/Eshant1008
-
+---
 ⭐ Always learning and building AI-powered solutions.
