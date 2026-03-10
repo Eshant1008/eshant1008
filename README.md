@@ -21,9 +21,9 @@ Computer vision system that detects driver fatigue using Eye Aspect Ratio (EAR) 
 * Computer Vision
 ---
 ## 🌱 Currently Learning
-  *Machine Learning
-  *Mathematics for Machine Learning
-  *Artificial Intelligence Systems
+  * Machine Learning
+  * Mathematics for Machine Learning
+  * Artificial Intelligence Systems
 
 ---
 ## 📊 GitHub Stats
