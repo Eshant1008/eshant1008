@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋 I'm Eshant Bhardwaj
 
-<!--
-**Eshant1008/eshant1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering (AI & ML) Student
+🤖 Interested in Artificial Intelligence, Computer Vision and Machine Learning
+💻 Building AI based real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+🔹 **AI Driver Drowsiness Detection System**
+Computer vision system that detects driver fatigue using Eye Aspect Ratio (EAR) and triggers an alert.
+
+  ## 🛠 Technologies
+
+* Python
+* OpenCV
+* MediaPipe
+* NumPy
+* SciPy
+* Computer Vision
+
+🔹 **A Simple Online Calculator**
+A Simple calculator that is colorfull and can be accessed online (colorfull calculator).
+
+   ## 🛠 Technologies
+   *HTML
+   *CSS
+---
+
+
+## 🌱 Currently Learning
+  *Machine Learning
+  *Mathematics for Machine Learning
+  *Artificial Intelligence Systems
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshant1008\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshant1008\&layout=compact)
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/Eshant1008
+
+⭐ Always learning and building AI-powered solutions.
