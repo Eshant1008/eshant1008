@@ -8,22 +8,20 @@
 
 ## 🚀 Projects
 
+
+🔹 **AgroSense AI – Crop Disease Detection System**
+Developed an AI-powered crop disease detection platform using PyTorch, MobileNetV2, FastAPI, and React. The project secured 2nd Runner-Up position at Environment Hackathon 2026.
+
 🔹 **AI Driver Drowsiness Detection System**
 Computer vision system that detects driver fatigue using Eye Aspect Ratio (EAR) and triggers an alert.
 
-  ## 🛠 Technologies
-
-* Python
-* OpenCV
-* MediaPipe
-* NumPy
-* SciPy
-* Computer Vision
 ---
 ## 🌱 Currently Learning
   * Machine Learning
   * Mathematics for Machine Learning
   * Artificial Intelligence Systems
+  * Python
+  * Java
 
 ---
 ## 📊 GitHub Stats
